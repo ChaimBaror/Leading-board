@@ -1,0 +1,16 @@
+.contenr{
+    padding: 100px;
+    background: black;
+    text-align: center;
+    color: yellow;
+}
+.list{
+    background: darkblue;
+    border: 1px  darkgray dashed;
+    margin: 3px;
+
+   
+}
+.contenr :hover{
+background: rgb(67, 67, 199)
+}
